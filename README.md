@@ -31,7 +31,7 @@ Com **IA**, não só acompanho o futuro – eu converso com ele.
 
 ## 📂 Projetos em Destaque
 
-🔹 **[Curva-ABC](#)** – Modelo de Curva ABC em Power BI.  
+🔹 **[Curva-ABC](https://github.com/fabiopietro/Curva-ABC)** – Modelo de Curva ABC em Power BI.  
 
 
 ---
