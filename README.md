@@ -32,7 +32,7 @@ Com **IA**, não só acompanho o futuro – eu converso com ele.
 ## 📂 Projetos em Destaque
 
 🔹 **[Curva-ABC](https://github.com/fabiopietro/Curva-ABC)** – Modelo de Curva ABC em Power BI.  
-
+🔹 **[Cohort](https://github.com/fabiopietro/Cohort)** – Modelo de Analise Cohort em Power BI.  
 
 ---
 
