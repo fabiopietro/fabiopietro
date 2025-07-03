@@ -55,9 +55,10 @@ Não acredito em código sem alma, nem em dado sem contexto.
 <!--
 
 
-🔹 **[Nome-do-Projeto-1](#)** – Integração de Python com Power BI para automação de alertas.  
-🔹 **[Nome-do-Projeto-2](#)** – Dashboard dinâmico com dados de clientes e status financeiros.  
-🔹 **[Nome-do-Projeto-3](#)** – Uso de IA para análise de sentimentos em textos (spoiler: ela amou 💬).
+![Spark](https://img.shields.io/badge/Spark-Enabled-orange?logo=apache-spark)
+![Hive](https://img.shields.io/badge/Hive-Compatible-yellow)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![GitHub Repo size](https://img.shields.io/github/repo-size/fabiopietro/coleta_spark_hive)
 **fabiopietro/fabiopietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
